@@ -1,0 +1,46 @@
+/*VENDORS FLIP CARD STYLE*/
+#contain-with-bottom-padding {
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-bottom: 100px;
+}
+#f1_container {
+  position: relative;
+  margin: 10px auto;
+  width: 350px;
+  height: 300px;
+  z-index: 1;
+}
+#f1_container {
+  /*perspective: 1000;*/
+}
+#f1_card {
+  width: 100%;
+  height: 100%;
+  transform-style: preserve-3d;
+  transition: all 1.0s linear;
+}
+#f1_container:hover #f1_card {
+  transform: rotateY(180deg);
+  box-shadow: -5px 5px 5px #aaa;
+}
+#imgbg-color {
+  background-color: #D3D3D3;
+}
+#imgbg-color img {
+  margin-top: 100px;
+}
+.face {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  backface-visibility: hidden;
+}
+.face.back {
+  display: block;
+  transform: rotateY(180deg);
+  box-sizing: border-box;
+  padding: 10px;
+  color: black;
+  background-color: #D3D3D3;
+}

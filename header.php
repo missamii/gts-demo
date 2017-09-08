@@ -28,7 +28,7 @@
     				<div class="col-md-4">
               <ul class="media-list" data-toggle="collapse" data-parent="custom-collapse">
                 <li>
-                  <img src="Images/media-icon/phone.png" alt=""> <a href="tel:18664003737">+1.866.400.3737</a>
+                  <img src="Images/media-icon/phone.png" alt=""> <a href="tel:#####">+####</a>
                 </li>
                 <li>
                   <img src="Images/media-icon/mail.png" alt=""> <a href="mailto:joe@example.com?subject=feedback">info@mail.com</a>
@@ -55,7 +55,7 @@
 				<div class="navbar-header">
 					<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
 						 <span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span>
-					</button> <a class="navbar-brand" href="http://globaltelecomsupply.com">Global Telecom Supply</a>
+					</button> <a class="navbar-brand" href="http://"></a>
 				</div>
 
 				<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">

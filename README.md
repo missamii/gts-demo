@@ -12,3 +12,7 @@ This is for demo, showcasing ONLY. Please do not resuse, code or images. It may 
 - PHP
 - MySQL db
 - JavaScript
+
+
+## Screenshots, Vid, and Views
+coming soon

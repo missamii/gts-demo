@@ -15,4 +15,8 @@ This is for demo, showcasing ONLY. Please do not resuse, code or images. It may 
 
 
 ## Screenshots, Vid, and Views
-coming soon
+
+- [Career CSS Styling ](https://tiffanylo.dev/wp-content/uploads/2020/09/Career-CSS-Styling.mp4)
+- [Carousel Bootstrap](https://tiffanylo.dev/wp-content/uploads/2020/09/carousel-bootstrap.mp4)
+- [Parallex and Button Drawer](https://tiffanylo.dev/wp-content/uploads/2020/09/Parallex-and-button-drawer.mp4)
+- [Vendors](https://tiffanylo.dev/wp-content/uploads/2020/09/vendors.mp4)
